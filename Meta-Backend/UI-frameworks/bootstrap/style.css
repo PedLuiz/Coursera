@@ -1,0 +1,6 @@
+body {
+    background-color: var(--bs-body-color);
+    color: var(--bs-body-bg)
+}
+
+@import "node_modules/bootstrap/scss/bootstrap";
